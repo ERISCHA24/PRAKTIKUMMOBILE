@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anime Populer</string>
+
+    <!-- Labels -->
+    <string name="label_highlights">✨ Unggulan</string>
+    <string name="label_popular">🔥 Anime Populer</string>
+    <string name="label_detail">Detail</string>
+    <string name="label_language">Bahasa</string>
+    <string name="label_select_language">Pilih Bahasa</string>
+    <string name="label_language_desc">Pilih bahasa tampilan yang Anda inginkan</string>
+    <string name="label_rating">Rating:</string>
+    <string name="label_episodes">Episode:</string>
+    <string name="label_studio">Studio:</string>
+    <string name="label_plot">Sinopsis</string>
+
+    <!-- Buttons -->
+    <string name="btn_imdb">IMDB</string>
+    <string name="btn_detail">Detail</string>
+    <string name="btn_select">Pilih</string>
+    <string name="btn_open_imdb">Buka di IMDB</string>
+</resources>

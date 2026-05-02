@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnimeApp</string>
+    <string name="app_title">Anime Characters</string>
+    <string name="highlight_title">✨ Featured Characters</string>
+    <string name="all_characters">All Characters</string>
+    <string name="btn_detail">Detail</string>
+    <string name="change_language">Change Language</string>
+    <string name="select_language">Select Language</string>
+    <string name="apply_language">Apply</string>
+    <string name="lang_english">English</string>
+    <string name="lang_indonesian">Indonesian</string>
+    <string name="back">Back</string>
+    <string name="rating">Rating</string>
+    <string name="episodes">Episodes</string>
+    <string name="year">Year</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="abilities">Abilities &amp; Powers</string>
+    <string name="view_on_mal">View on MyAnimeList</string>
+    <string name="type_anime">Anime</string>
+
+    <string name="char1_name">Naruto Uzumaki</string>
+    <string name="char1_anime">Naruto / Naruto Shippuden</string>
+    <string name="char1_genre">Action, Adventure, Fantasy</string>
+    <string name="char1_description">Naruto Uzumaki is a young ninja who has the Nine-Tails sealed within him. Shunned by his village, he dreams of becoming the Hokage — the strongest ninja and leader of his village — so that he can gain the recognition and respect of his people.</string>
+    <string name="char1_ability">Rasengan, Sage Mode, Nine-Tails Chakra Mode, Shadow Clone Jutsu, Tailed Beast Bomb</string>
+
+    <string name="char2_name">Monkey D. Luffy</string>
+    <string name="char2_anime">One Piece</string>
+    <string name="char2_genre">Action, Adventure, Comedy</string>
+    <string name="char2_description">Monkey D. Luffy, nicknamed "Straw Hat Luffy," is the founder and captain of the Straw Hat Pirates. He seeks to conquer the Grand Line and claim the title of King of the Pirates by finding the treasure known as the One Piece.</string>
+    <string name="char2_ability">Gum-Gum Fruit Powers, Gear 2, Gear 3, Gear 4, Gear 5, Haki (Conqueror\'s, Armament, Observation)</string>
+
+    <string name="char3_name">Ichigo Kurosaki</string>
+    <string name="char3_anime">Bleach</string>
+    <string name="char3_genre">Action, Supernatural, Adventure</string>
+    <string name="char3_description">Ichigo Kurosaki is a teenager with the ability to see ghosts. His life changes when he obtains the powers of a Soul Reaper from Rukia Kuchiki. He dedicates his life to protecting the innocent and fighting evil spirits.</string>
+    <string name="char3_ability">Soul Reaper Powers, Zanpakuto (Zangetsu), Bankai, Hollow Mask, Fullbring, Quincy Powers</string>
+
+    <string name="char4_name">Eren Yeager</string>
+    <string name="char4_anime">Attack on Titan</string>
+    <string name="char4_genre">Action, Drama, Dark Fantasy</string>
+    <string name="char4_description">Eren Yeager is a young man who lives inside walls protecting humanity from Titans. After his mother is eaten by a Titan, he vows to destroy all Titans and seeks freedom beyond the walls. His complex journey transforms him into both hero and villain.</string>
+    <string name="char4_ability">Titan Transformation (Attack Titan), War Hammer Titan, Founding Titan, The Rumbling</string>
+
+    <string name="char5_name">Son Goku</string>
+    <string name="char5_anime">Dragon Ball Z</string>
+    <string name="char5_genre">Action, Adventure, Martial Arts</string>
+    <string name="char5_description">Son Goku is a pure-hearted Saiyan warrior who constantly pushes his limits to protect Earth and the universe. With an insatiable love for fighting and training, he has achieved legendary transformations and defeated countless powerful opponents.</string>
+    <string name="char5_ability">Super Saiyan (1/2/3/4/God/Blue), Kamehameha, Instant Transmission, Ultra Instinct</string>
+
+    <string name="char6_name">Edward Elric</string>
+    <string name="char6_anime">Fullmetal Alchemist: Brotherhood</string>
+    <string name="char6_genre">Action, Adventure, Fantasy</string>
+    <string name="char6_description">Edward Elric is the youngest State Alchemist in history, known as the "Fullmetal Alchemist." After a failed attempt to resurrect his mother using forbidden alchemy, he and his brother Alphonse embark on a quest to restore their bodies using the Philosopher\'s Stone.</string>
+    <string name="char6_ability">Alchemy without circles, Combat Alchemy, Automail Arm Blade, Enhanced Intelligence</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anime Popular</string>
+
+    <!-- Labels -->
+    <string name="label_highlights">✨ Highlights</string>
+    <string name="label_popular">🔥 Popular Anime</string>
+    <string name="label_detail">Detail</string>
+    <string name="label_language">Language</string>
+    <string name="label_select_language">Select Language</string>
+    <string name="label_language_desc">Choose your preferred display language</string>
+    <string name="label_rating">Rating:</string>
+    <string name="label_episodes">Episodes:</string>
+    <string name="label_studio">Studio:</string>
+    <string name="label_plot">Synopsis</string>
+
+    <!-- Buttons -->
+    <string name="btn_imdb">IMDB</string>
+    <string name="btn_detail">Detail</string>
+    <string name="btn_select">Select</string>
+    <string name="btn_open_imdb">Open on IMDB</string>
+</resources>
