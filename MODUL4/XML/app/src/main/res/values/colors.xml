@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1A1A2E</color>
+    <color name="colorPrimaryVariant">#16213E</color>
+    <color name="colorSecondary">#E94560</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <color name="background_dark">#0F0F1A</color>
+    <color name="card_background">#1E1E30</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#AAAACC</color>
+    <color name="accent_color">#E94560</color>
+    <color name="rating_color">#FFD700</color>
+    <color name="imdb_yellow">#F5C518</color>
+
+    <color name="statusBarColor">#1A1A2E</color>
+</resources>

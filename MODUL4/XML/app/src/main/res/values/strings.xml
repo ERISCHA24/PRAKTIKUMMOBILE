@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Popular Anime</string>
+
+    <string name="label_highlights">✨ Highlights</string>
+    <string name="label_popular">🔥 Popular Anime</string>
+    <string name="label_detail">Detail</string>
+    <string name="label_language">Language</string>
+    <string name="label_select_language">Select Language</string>
+    <string name="label_language_desc">Choose your preferred display language</string>
+    <string name="label_rating">Rating:</string>
+    <string name="label_episodes">Episodes:</string>
+    <string name="label_studio">Studio:</string>
+    <string name="label_plot">Synopsis</string>
+    <string name="Genre">Genre</string>
+    <string name="News">News</string>
+    <string name="schedule">Schedule</string>
+    <string name="watch">Watch</string>
+    <string name="favorite">Favorite</string>
+    <string name="review">Review</string>
+    <string name="noreview">No Review Yet</string>
+    <string name="reviewuser">User Review</string>
+    <string name="typereview">Type Your Review Here</string>
+    <string name="sendreview">Send Review</string>
+    <string name="myfavorite">❤️ My Favorite</string>
+    <string name="nofavorite">❤️ No Anime Favorite Yet</string>
+    <string name="hotnews">📰 Hot News</string>
+    <string name="nonews">No News Happen</string>
+    <string name="setting">Save Settings</string>
+    <string name="settings">⚙️ Settings</string>
+    <string name="about">ℹ️ About Application</string>
+    <string name="airing">📅 Air Date</string>
+    <string name="noairing"> No Anime Airing</string>
+    <string name="searchanime"> 🔍 Anime Search</string>
+    <string name="nofind"> Anime Not Found</string>
+    <string name="account">Account</string>
+    <string name="notification">Notification</string>
+    <string name="history">History</string>
+    <string name="application">Application</string>
+    <string name="HelpDesk">Help Desk</string>
+    <string name="DevicePermissions">Device Permissions</string>
+    <string name="LogOut">LogOut</string>
+    <string name="toprated">🏆 Top Rated</string>
+    <string name="profile">Profile</string>
+    <string name="version">1.0 Version</string>
+    <string name="appdesc">Popular Anime is an app for exploring the most popular and best anime. Enjoy search features, favorites, broadcast schedules, and much more!</string>
+    <string name="developer">Develop by ERISCHA MARSELA 2410817120022</string>
+    <string name="contact">Contact : @ris._sela</string>
+    <string name="btn_imdb">IMDB</string>
+    <string name="btn_detail">Detail</string>
+    <string name="btn_select">Select</string>
+    <string name="btn_open_imdb">Open on IMDB</string>
+</resources>

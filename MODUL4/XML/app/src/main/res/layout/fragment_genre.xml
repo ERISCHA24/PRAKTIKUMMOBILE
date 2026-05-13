@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background_dark">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="12dp"
+        android:background="@color/colorPrimary">
+
+        <TextView
+            android:id="@+id/tvGenreTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Genre"
+            android:textColor="@color/text_primary"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/tvGenreCount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_secondary"
+            android:textSize="12sp"
+            android:paddingTop="3dp"/>
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="none"
+            android:paddingTop="10dp"
+            android:clipToPadding="false">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button android:id="@+id/chip1" style="@style/Widget.MaterialComponents.Button.OutlinedButton" android:layout_width="wrap_content" android:layout_height="34dp" android:layout_marginEnd="6dp" android:text="Action" android:textColor="@color/accent_color" android:textSize="11sp"/>
+                <Button android:id="@+id/chip2" style="@style/Widget.MaterialComponents.Button.OutlinedButton" android:layout_width="wrap_content" android:layout_height="34dp" android:layout_marginEnd="6dp" android:text="Fantasy" android:textColor="@color/accent_color" android:textSize="11sp"/>
+                <Button android:id="@+id/chip3" style="@style/Widget.MaterialComponents.Button.OutlinedButton" android:layout_width="wrap_content" android:layout_height="34dp" android:layout_marginEnd="6dp" android:text="Mecha" android:textColor="@color/accent_color" android:textSize="11sp"/>
+                <Button android:id="@+id/chip4" style="@style/Widget.MaterialComponents.Button.OutlinedButton" android:layout_width="wrap_content" android:layout_height="34dp" android:layout_marginEnd="6dp" android:text="Comedy" android:textColor="@color/accent_color" android:textSize="11sp"/>
+                <Button android:id="@+id/chip5" style="@style/Widget.MaterialComponents.Button.OutlinedButton" android:layout_width="wrap_content" android:layout_height="34dp" android:layout_marginEnd="6dp" android:text="Sci-Fi" android:textColor="@color/accent_color" android:textSize="11sp"/>
+                <Button android:id="@+id/chip6" style="@style/Widget.MaterialComponents.Button.OutlinedButton" android:layout_width="wrap_content" android:layout_height="34dp" android:layout_marginEnd="6dp" android:text="Drama" android:textColor="@color/accent_color" android:textSize="11sp"/>
+
+            </LinearLayout>
+        </HorizontalScrollView>
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvGenreAnime"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="8dp"
+        android:clipToPadding="false"/>
+
+</LinearLayout>

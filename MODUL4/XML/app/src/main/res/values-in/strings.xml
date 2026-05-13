@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anime Populer</string>
+
+    <string name="label_highlights">✨ Unggulan</string>
+    <string name="label_popular">🔥 Anime Populer</string>
+    <string name="label_detail">Detail</string>
+    <string name="label_language">Bahasa</string>
+    <string name="label_select_language">Pilih Bahasa</string>
+    <string name="label_language_desc">Pilih bahasa tampilan yang Anda inginkan</string>
+    <string name="label_rating">Rating:</string>
+    <string name="label_episodes">Episode:</string>
+    <string name="label_studio">Studio:</string>
+    <string name="label_plot">Sinopsis</string>
+    <string name="Genre">Genre</string>
+    <string name="News">Berita</string>
+    <string name="schedule">Jadwal</string>
+    <string name="watch">Ditonton</string>
+    <string name="favorite">Favorit</string>
+    <string name="review">Review</string>
+    <string name="noreview">Tidak Ada Review</string>
+    <string name="reviewuser">Review Pengguna</string>
+    <string name="typereview">Tulis Reviewmu Disini</string>
+    <string name="sendreview">Kirim Review</string>
+    <string name="myfavorite">❤️ Favorit Saya</string>
+    <string name="nofavorite">❤️ Belum Ada Anime Favorite</string>
+    <string name="hotnews">📰 Berita Terkini</string>
+    <string name="nonews">Tidak Ada Berita Terbaru</string>
+    <string name="setting">Simpan Pengaturan</string>
+    <string name="settings">⚙️  Pengaturan</string>
+    <string name="about">ℹ️  Tentang Aplikasi</string>
+    <string name="airing">📅 Jadwal Tayang</string>
+    <string name="noairing"> Belum Ada Jadwal Tayang yang Tersedia</string>
+    <string name="searchanime"> 🔍 Cari Anime</string>
+    <string name="nofind"> Anime Tidak Ditemukan</string>
+    <string name="account">Akun</string>
+    <string name="notification">Notifikasi</string>
+    <string name="history">Riwayat</string>
+    <string name="application">Aplikasi</string>
+    <string name="HelpDesk">Bantuan</string>
+    <string name="DevicePermissions">Izin Perangkat</string>
+    <string name="LogOut">Keluar</string>
+    <string name="toprated">🏆 Rangking</string>
+    <string name="profile">Profil</string>
+    <string name="version">Versi 1.0</string>
+    <string name="appdesc">Anime Popular adalah aplikasi untuk menjelajahi anime-anime terpopuler dan terbaik. Nikmati fitur pencarian, favorit, jadwal tayang, dan masih banyak lagi!</string>
+    <string name="developer">Dikembangkan oleh: ERISCHA MARSELA 2410817120022</string>
+    <string name="contact">Kontak: @ris._.sela</string>
+    <string name="btn_imdb">IMDB</string>
+    <string name="btn_detail">Detail</string>
+    <string name="btn_select">Pilih</string>
+    <string name="btn_open_imdb">Buka di IMDB</string>
+</resources>

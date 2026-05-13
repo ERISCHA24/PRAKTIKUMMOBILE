@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="image_radius">12dp</dimen>
+    <dimen name="button_radius">18dp</dimen>
+</resources>

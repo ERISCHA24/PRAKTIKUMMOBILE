@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnimeApp</string>
+    <string name="app_title">Karakter Anime</string>
+    <string name="highlight_title">✨ Karakter Unggulan</string>
+    <string name="all_characters">Semua Karakter</string>
+    <string name="btn_detail">Detail</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="select_language">Pilih Bahasa</string>
+    <string name="apply_language">Terapkan</string>
+    <string name="lang_english">Bahasa Inggris</string>
+    <string name="lang_indonesian">Bahasa Indonesia</string>
+    <string name="back">Kembali</string>
+    <string name="rating">Rating</string>
+    <string name="episodes">Episode</string>
+    <string name="year">Tahun</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="abilities">Kemampuan &amp; Kekuatan</string>
+    <string name="view_on_mal">Lihat di MyAnimeList</string>
+    <string name="type_anime">Anime</string>
+
+    <string name="char1_name">Naruto Uzumaki</string>
+    <string name="char1_anime">Naruto / Naruto Shippuden</string>
+    <string name="char1_genre">Aksi, Petualangan, Fantasi</string>
+    <string name="char1_description">Naruto Uzumaki adalah seorang ninja muda yang memiliki Ekor Sembilan tersegel dalam dirinya. Dijauhi oleh desanya, ia bermimpi menjadi Hokage — ninja terkuat dan pemimpin desanya — agar mendapatkan pengakuan dan rasa hormat dari rakyatnya.</string>
+    <string name="char1_ability">Rasengan, Mode Bijak, Mode Chakra Ekor Sembilan, Kage Bunshin no Jutsu, Bom Binatang Berekor</string>
+
+    <string name="char2_name">Monkey D. Luffy</string>
+    <string name="char2_anime">One Piece</string>
+    <string name="char2_genre">Aksi, Petualangan, Komedi</string>
+    <string name="char2_description">Monkey D. Luffy, dijuluki "Luffy Topi Jerami," adalah pendiri dan kapten Bajak Laut Topi Jerami. Ia berusaha menaklukkan Grand Line dan merebut gelar Raja Bajak Laut dengan menemukan harta karun bernama One Piece.</string>
+    <string name="char2_ability">Kekuatan Buah Karet, Gear 2, Gear 3, Gear 4, Gear 5, Haki (Conqueror\'s, Armament, Observation)</string>
+
+    <string name="char3_name">Ichigo Kurosaki</string>
+    <string name="char3_anime">Bleach</string>
+    <string name="char3_genre">Aksi, Supranatural, Petualangan</string>
+    <string name="char3_description">Ichigo Kurosaki adalah seorang remaja yang dapat melihat hantu. Hidupnya berubah ketika ia memperoleh kekuatan Soul Reaper dari Rukia Kuchiki. Ia mendedikasikan hidupnya untuk melindungi yang tak berdaya dan memerangi roh jahat.</string>
+    <string name="char3_ability">Kekuatan Soul Reaper, Zanpakuto (Zangetsu), Bankai, Topeng Hollow, Fullbring, Kekuatan Quincy</string>
+
+    <string name="char4_name">Eren Yeager</string>
+    <string name="char4_anime">Attack on Titan</string>
+    <string name="char4_genre">Aksi, Drama, Fantasi Gelap</string>
+    <string name="char4_description">Eren Yeager adalah seorang pria muda yang tinggal di dalam tembok pelindung manusia dari Titan. Setelah ibunya dimakan Titan, ia bersumpah menghancurkan semua Titan dan mencari kebebasan di balik tembok. Perjalanan kompleksnya mengubahnya menjadi pahlawan sekaligus penjahat.</string>
+    <string name="char4_ability">Transformasi Titan (Titan Serangan), Titan Palu Perang, Titan Pembentuk, Gemuruh Bumi</string>
+
+    <string name="char5_name">Son Goku</string>
+    <string name="char5_anime">Dragon Ball Z</string>
+    <string name="char5_genre">Aksi, Petualangan, Seni Bela Diri</string>
+    <string name="char5_description">Son Goku adalah pejuang Saiyan berhati murni yang terus mendorong batasnya untuk melindungi Bumi dan alam semesta. Dengan kecintaan tak terpuaskan pada pertarungan dan latihan, ia telah mencapai transformasi legendaris dan mengalahkan banyak lawan kuat.</string>
+    <string name="char5_ability">Super Saiyan (1/2/3/4/God/Blue), Kamehameha, Pemindahan Instan, Ultra Instinct</string>
+
+    <string name="char6_name">Edward Elric</string>
+    <string name="char6_anime">Fullmetal Alchemist: Brotherhood</string>
+    <string name="char6_genre">Aksi, Petualangan, Fantasi</string>
+    <string name="char6_description">Edward Elric adalah Alkemis Negara termuda dalam sejarah, dikenal sebagai "Alkemis Fullmetal." Setelah gagal membangkitkan ibunya menggunakan alkimia terlarang, ia dan adiknya Alphonse memulai perjalanan untuk memulihkan tubuh mereka menggunakan Batu Filosof.</string>
+    <string name="char6_ability">Alkimia tanpa lingkaran, Alkimia Tempur, Pedang Lengan Automail, Kecerdasan Tinggi</string>
+</resources>
