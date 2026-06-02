@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClickAnime</string>
+    <string name="app_title">Penjelajah Film</string>
+
+    <string name="nav_home">Beranda</string>
+    <string name="nav_search">Cari</string>
+    <string name="nav_favorites">Favorit</string>
+    <string name="nav_settings">Pengaturan</string>
+
+    <string name="featured">Unggulan</string>
+    <string name="all_movies">Semua Film</string>
+    <string name="category_popular">Populer</string>
+    <string name="category_now_playing">Sedang Tayang</string>
+    <string name="category_top_rated">Nilai Tertinggi</string>
+    <string name="category_upcoming">Akan Datang</string>
+    <string name="loading_movies">Memuat film…</string>
+    <string name="refresh">Perbarui</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="failed_to_load">Gagal memuat film</string>
+
+    <string name="overview">Sinopsis</string>
+    <string name="no_overview">Tidak ada sinopsis tersedia.</string>
+    <string name="rating">Nilai</string>
+    <string name="runtime">Durasi</string>
+    <string name="year">Tahun</string>
+    <string name="votes">Suara</string>
+    <string name="box_office">Box Office</string>
+    <string name="budget">Anggaran</string>
+    <string name="revenue">Pendapatan</string>
+    <string name="status">Status</string>
+    <string name="language">Bahasa</string>
+    <string name="add_to_favorites">Tambah ke Favorit</string>
+    <string name="remove_from_favorites">Hapus dari Favorit</string>
+
+    <string name="search_hint">Cari film…</string>
+    <string name="search_empty_hint">Cari film favoritmu</string>
+    <string name="search_no_results">Tidak ada film ditemukan untuk</string>
+    <string name="search_results">hasil untuk</string>
+    <string name="clear_search">Bersihkan pencarian</string>
+
+    <string name="favorites_empty_title">Belum ada favorit</string>
+    <string name="favorites_empty_desc">Jelajahi film dan ketuk ♥ untuk menyimpannya di sini secara permanen.</string>
+    <string name="favorites_saved_hint">Tersimpan di perangkat • Tetap ada saat offline</string>
+    <string name="remove_favorite">Hapus Favorit</string>
+    <string name="remove_favorite_confirm">Hapus \"%s\" dari favorit?</string>
+    <string name="remove">Hapus</string>
+    <string name="cancel">Batal</string>
+
+    <string name="settings_title">Pengaturan</string>
+    <string name="settings_app">Pengaturan Aplikasi</string>
+    <string name="settings_notifications">Aktifkan Notifikasi</string>
+    <string name="settings_notifications_sub">Terima pembaruan tentang film baru</string>
+    <string name="settings_grid_view">Tampilan Grid</string>
+    <string name="settings_grid_view_sub">Tampilkan film dalam tata letak grid</string>
+    <string name="settings_data">Data &amp; Cache</string>
+    <string name="settings_cache_strategy">Strategi Cache Film</string>
+    <string name="settings_cache_strategy_value">Cache-First dengan TTL 30 menit</string>
+    <string name="settings_cache_desc">Film di-cache secara lokal dan diperbarui setiap 30 menit. Favorit disimpan permanen.</string>
+    <string name="settings_clear_cache">Bersihkan Cache Film</string>
+    <string name="settings_clear_cache_title">Bersihkan Cache Film</string>
+    <string name="settings_clear_cache_msg">Ini akan menghapus semua data cache film. Aplikasi akan mengambil ulang dari internet. Favorit Anda TIDAK akan dihapus.</string>
+    <string name="settings_cache_cleared">✓ Cache dibersihkan. Film akan diperbarui dari internet.</string>
+    <string name="settings_about">Tentang</string>
+    <string name="settings_app_label">ClickAnime — Penjelajah Film</string>
+    <string name="settings_about_module">Modul 5 — Connect to the Internet</string>
+    <string name="settings_about_tmdb">Data disediakan oleh The Movie Database (TMDB)</string>
+    <string name="settings_about_networking">Jaringan: Retrofit + KotlinX Serialization</string>
+    <string name="settings_about_storage">Penyimpanan: Room (cache) + SharedPreferences (pengaturan)</string>
+
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="select_language">Pilih Bahasa</string>
+    <string name="apply_language">Terapkan</string>
+    <string name="lang_english">Bahasa Inggris</string>
+    <string name="lang_indonesian">Bahasa Indonesia</string>
+    <string name="back">Kembali</string>
+</resources>

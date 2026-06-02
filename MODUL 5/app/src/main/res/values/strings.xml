@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClickAnime</string>
+    <string name="app_title">Movie Explorer</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home -->
+    <string name="featured">Featured</string>
+    <string name="all_movies">All Movies</string>
+    <string name="category_popular">Popular</string>
+    <string name="category_now_playing">Now Playing</string>
+    <string name="category_top_rated">Top Rated</string>
+    <string name="category_upcoming">Upcoming</string>
+    <string name="loading_movies">Loading movies…</string>
+    <string name="refresh">Refresh</string>
+    <string name="retry">Retry</string>
+    <string name="failed_to_load">Failed to load movies</string>
+
+    <!-- Detail -->
+    <string name="overview">Overview</string>
+    <string name="no_overview">No overview available.</string>
+    <string name="rating">Rating</string>
+    <string name="runtime">Runtime</string>
+    <string name="year">Year</string>
+    <string name="votes">Votes</string>
+    <string name="box_office">Box Office</string>
+    <string name="budget">Budget</string>
+    <string name="revenue">Revenue</string>
+    <string name="status">Status</string>
+    <string name="language">Language</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="remove_from_favorites">Remove from Favorites</string>
+
+    <!-- Search -->
+    <string name="search_hint">Search movies…</string>
+    <string name="search_empty_hint">Search for your favorite movies</string>
+    <string name="search_no_results">No movies found for</string>
+    <string name="search_results">results for</string>
+    <string name="clear_search">Clear search</string>
+
+    <!-- Favorites -->
+    <string name="favorites_empty_title">No favorites yet</string>
+    <string name="favorites_empty_desc">Browse movies and tap ♥ to save them here permanently.</string>
+    <string name="favorites_saved_hint">Saved to your device • Stays even offline</string>
+    <string name="remove_favorite">Remove Favorite</string>
+    <string name="remove_favorite_confirm">Remove \"%s\" from your favorites?</string>
+    <string name="remove">Remove</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_app">App Settings</string>
+    <string name="settings_notifications">Enable Notifications</string>
+    <string name="settings_notifications_sub">Receive updates about new movies</string>
+    <string name="settings_grid_view">Grid View</string>
+    <string name="settings_grid_view_sub">Display movies in a grid layout</string>
+    <string name="settings_data">Data &amp; Cache</string>
+    <string name="settings_cache_strategy">Movie Cache Strategy</string>
+    <string name="settings_cache_strategy_value">Cache-First with 30-minute TTL</string>
+    <string name="settings_cache_desc">Movies are cached locally and refreshed every 30 minutes. Favorites are stored permanently.</string>
+    <string name="settings_clear_cache">Clear Movie Cache</string>
+    <string name="settings_clear_cache_title">Clear Movie Cache</string>
+    <string name="settings_clear_cache_msg">This will delete all cached movie data. The app will re-fetch from the internet. Your favorites will NOT be deleted.</string>
+    <string name="settings_cache_cleared">✓ Cache cleared. Movies will be refreshed from the internet.</string>
+    <string name="settings_about">About</string>
+    <string name="settings_app_label">ClickAnime — Movie Explorer</string>
+    <string name="settings_about_module">Modul 5 — Connect to the Internet</string>
+    <string name="settings_about_tmdb">Data provided by The Movie Database (TMDB)</string>
+    <string name="settings_about_networking">Networking: Retrofit + KotlinX Serialization</string>
+    <string name="settings_about_storage">Storage: Room (cache) + SharedPreferences (settings)</string>
+
+    <!-- Language -->
+    <string name="change_language">Change Language</string>
+    <string name="select_language">Select Language</string>
+    <string name="apply_language">Apply</string>
+    <string name="lang_english">English</string>
+    <string name="lang_indonesian">Indonesian</string>
+    <string name="back">Back</string>
+</resources>

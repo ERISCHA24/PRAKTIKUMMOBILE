@@ -1,0 +1,3 @@
+-keep class com.example.clickanime.model.** { *; }
+-keep class com.example.clickanime.data.remote.model.** { *; }
+-keepattributes SourceFile,LineNumberTable
